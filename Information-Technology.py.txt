@@ -1,0 +1,2 @@
+print("KOFI HOSSANNAH")
+print("HELLO WORLD")
